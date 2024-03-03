@@ -8,14 +8,14 @@ The programme uses Tkinter for  graphical user interface (GUI) and sqlite3 for s
 
 USAGE   
 
--Launch the application by running 'main.py'.
--Enter the item name, price, and purchase date in the respective fields.
--Click on the "Save Record" button to save the expense.
--To update an existing expense, select the record from the list and click on the "Update" button.
--To delete an expense, select the record from the list and click on the "Delete" button.
--Click on the "Total Balance" button to view the total expenses and remaining balance.
--Click on the "Clear" button to remove the entries typed in the messagebox .
--Click on the "Exit" button to exit from the programme.
+1.Launch the application by running 'main.py'.
+2.Enter the item name, price, and purchase date in the respective fields.
+3.Click on the "Save Record" button to save the expense.
+4.To update an existing expense, select the record from the list and click on the "Update" button.
+5.To delete an expense, select the record from the list and click on the "Delete" button.
+6.Click on the "Total Balance" button to view the total expenses and remaining balance.
+7.Click on the "Clear" button to remove the entries typed in the messagebox .
+8.Click on the "Exit" button to exit from the programme.
 
 FEATURES
 
