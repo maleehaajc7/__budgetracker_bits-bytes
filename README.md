@@ -5,6 +5,7 @@
 
                                                           EXPENSE TRACKER
 Problem statement
+
 In today's fast-paced world, managing personal finances effectively has become increasingly challenging. Many individuals struggle to keep track of their expenses.
 
 The Daily Expenses Tracker is a Python application designed to help users manage their daily expenses. It provides a user-friendly interface built using Tkinter, a standard GUI toolkit for Python, and utilizes SQLite3 for database operations. With this application, users can easily record, update, and delete their expenses, as well as view the total balance based on the recorded data.It helps us to give a clear overview of how much money is spent on daily basis.It is helpful for students and others to keep track of their money.It can be modified into a software that can be used in supermarkets and other shops for billing purpose.
