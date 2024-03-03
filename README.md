@@ -26,19 +26,19 @@ USAGE
 
 FEATURES
 
-1. Add Expenses
+1. Add Expenses:
 Users can add new expenses by entering the item name, price, and purchase date in the provided fields. The application then stores this information in the database for future reference.
 
-2. View Expenses
+2. View Expenses:
 The application displays a list of recorded expenses, including details such as the item name, price, and purchase date. Users can easily scroll through the list to view all recorded expenses.
 
-3. Update Expenses
+3. Update Expenses:
 Users have the option to update existing expense records. By selecting a record from the list, users can modify the item name, price, or purchase date and save the updated information.
 
-4. Delete Expenses
+4. Delete Expenses:
 Users can also delete expense records when necessary. By selecting a record from the list and clicking the "Delete" button, the application removes the selected expense from the database.
 
-5. Total Balance
+5. Total Balance:
 The application calculates and displays the total expenses recorded so far. It also shows the remaining balance based on a predefined budget (assumed as $5000 in the code).
 
 
